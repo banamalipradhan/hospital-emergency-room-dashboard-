@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="cover page/cover_page.jpg" alt="Hospital Emergency Room Dashboard">
+  <img src="images/dashboard_preview.png" alt="Hospital Emergency Room Dashboard">
 </p>  
+
 
 ## Project Overview
 This project demonstrates how **Microsoft Excel can be used to build interactive, insight-driven dashboards** when applied with the right analytical approach.
